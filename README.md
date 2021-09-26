@@ -12,3 +12,4 @@ Python &amp; JAVA Solutions for Leetcode
 |0004| [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|Hard|[Python](./algorithms/python/MedianOfTwoSortedArrays.py)<br>[Java](./algorithms/java/src/MedianOfTwoSortedArrays.java)|
 |0005| [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|Medium|[Python](./algorithms/python/LongestPalindromicSubstring.py)<br>[Java](./algorithms/java/src/LongestPalindromicSubstring.java)|
 |0006| [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)|Medium|[Python](./algorithms/python/ZigZagConversion.py)<br>[Java](./algorithms/java/src/ZigZagConversion.java)|
+|0007| [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|Easy|[Python](./algorithms/python/ReverseInteger.py)<br>[Java](./algorithms/java/src/ReverseInteger.java)|
