@@ -13,4 +13,5 @@ Python &amp; JAVA Solutions for Leetcode
 |0005| [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|Medium|[Python](./algorithms/python/LongestPalindromicSubstring.py)<br>[Java](./algorithms/java/src/LongestPalindromicSubstring.java)|
 |0006| [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)|Medium|[Python](./algorithms/python/ZigZagConversion.py)<br>[Java](./algorithms/java/src/ZigZagConversion.java)|
 |0007| [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|Easy|[Python](./algorithms/python/ReverseInteger.py)<br>[Java](./algorithms/java/src/ReverseInteger.java)|
-|0008| [String to Integer (atoi)](https://leetcode-cn.com/problems/https://leetcode-cn.com/problems/string-to-integer-atoi/)|Medium|[Python](./algorithms/python/String2Integer.py)<br>[Java](./algorithms/java/src/String2Integer.java)|
+|0008| [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|Medium|[Python](./algorithms/python/String2Integer.py)<br>[Java](./algorithms/java/src/String2Integer.java)|
+|0009| [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)|Easy|[Python](./algorithms/python/PalindromeNumber.py)<br>[Java](./algorithms/java/src/PalindromeNumber.java)|
