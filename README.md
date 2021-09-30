@@ -18,3 +18,4 @@ Python &amp; JAVA Solutions for Leetcode
 |0010| [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)|Hard|[Python](./algorithms/python/RegularExpressionMatching.py)<br>[Java](./algorithms/java/src/RegularExpressionMatching.java)|
 |0011| [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|Medium|[Python](./algorithms/python/ContainerWithMostWater.py)<br>[Java](./algorithms/java/src/ContainerWithMostWater.java)|
 |0012| [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)|Medium|[Python](./algorithms/python/Integer2Roman.py)<br>[Java](./algorithms/java/src/Integer2Roman.java)|
+|0013| [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|Easy|[Python](./algorithms/python/Roman2Integer.py)<br>[Java](./algorithms/java/src/Roman2Integer.java)|
