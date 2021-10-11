@@ -20,3 +20,4 @@ Python &amp; JAVA Solutions for Leetcode
 |0012| [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)|Medium|[Python](./algorithms/python/Integer2Roman.py)<br>[Java](./algorithms/java/src/Integer2Roman.java)|
 |0013| [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|Easy|[Python](./algorithms/python/Roman2Integer.py)<br>[Java](./algorithms/java/src/Roman2Integer.java)|
 |0014| [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy|[Python](./algorithms/python/LongestCommonPrefix.py)<br>[Java](./algorithms/java/src/LongestCommonPrefix.java)|
+|0015| [3Sum](https://leetcode-cn.com/problems/3sum/)|Medium|[Python](./algorithms/python/3Sum.py)<br>[Java](./algorithms/java/src/ThreeSum.java)|
