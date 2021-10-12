@@ -27,3 +27,4 @@ Python &amp; JAVA Solutions for Leetcode
 |0019| [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|Medium|[Python](./algorithms/python/RemoveNthNodeFromEndofList.py)<br>[Java](./algorithms/java/src/RemoveNthNodeFromEndOfList.java)|
 |0020| [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|Easy|[Python](./algorithms/python/ValidParentheses.py)<br>[Java](./algorithms/java/src/ValidParentheses.java)|
 |0021| [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|Easy|[Python](./algorithms/python/MergeTwoSortedLists.py)<br>[Java](./algorithms/java/src/MergeTwoSortedLists.java)|
+|0022| [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)|Easy|[Python](./algorithms/python/GenerateParentheses.py)<br>[Java](./algorithms/java/src/GenerateParentheses.java)|
