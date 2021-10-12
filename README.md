@@ -24,3 +24,4 @@ Python &amp; JAVA Solutions for Leetcode
 |0016| [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)|Medium|[Python](./algorithms/python/3SumClosest.py)<br>[Java](./algorithms/java/src/ThreeSumClosest.java)|
 |0017| [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|Medium|[Python](./algorithms/python/LetterCombinationsOfAPhoneNumber.py)<br>[Java](./algorithms/java/src/LetterCombinationsOfaPhoneNumber.java)|
 |0018| [4Sum](https://leetcode-cn.com/problems/4sum/)|Medium|[Python](./algorithms/python/4Sum.py)<br>[Java](./algorithms/java/src/FourSum.java)|
+|0019| [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|Medium|[Python](./algorithms/python/RemoveNthNodeFromEndofList.py)<br>[Java](./algorithms/java/src/RemoveNthNodeFromEndOfList.java)|
